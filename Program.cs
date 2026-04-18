@@ -64,6 +64,16 @@ namespace G_NET_42_LINQ_3
             //} 
             #endregion
 
+            #region Q18
+            //var table7 = Enumerable.Range(1, 10)
+            //            .Select(x => $"7 x {x} = {7 * x}");
+
+            //foreach (var row in table7)
+            //{
+            //    Console.WriteLine(row);
+            //} 
+            #endregion
+
         }
     }
 }
