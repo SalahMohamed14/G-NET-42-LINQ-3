@@ -96,6 +96,15 @@ namespace G_NET_42_LINQ_3
             //} 
             #endregion
 
+            #region Q21
+            //var result21 = ProductList
+            //.Zip(customers, (p, c) => $"{p.Name} sold to {c.CompanyName}");
+
+            //foreach (var item in result21)
+            //{
+            //    Console.WriteLine(item);
+            //} 
+            #endregion
 
         }
     }
