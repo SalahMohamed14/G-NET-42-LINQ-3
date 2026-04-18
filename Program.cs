@@ -74,6 +74,16 @@ namespace G_NET_42_LINQ_3
             //} 
             #endregion
 
+            #region Q19
+            //var evenNumbers = Enumerable.Range(1, 30)
+            //            .Where(x => x % 2 == 0);
+
+            //foreach (var row in evenNumbers)
+            //{
+            //    Console.WriteLine(row);
+            //} 
+            #endregion
+
         }
     }
 }
